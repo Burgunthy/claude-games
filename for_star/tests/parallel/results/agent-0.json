@@ -1,0 +1,54 @@
+{
+  "agentId": 0,
+  "config": {
+    "aiOnly": true,
+    "playerCount": 4,
+    "startingChips": 1000,
+    "smallBlind": 10,
+    "bigBlind": 20,
+    "hands": 20,
+    "agentId": 0
+  },
+  "handsPlayed": 20,
+  "errors": [],
+  "stats": {
+    "totalHands": 20,
+    "folds": 13,
+    "checks": 19,
+    "calls": 26,
+    "raises": 4,
+    "allIns": 2,
+    "sidePotsCreated": 1,
+    "handsWithShowdown": 1,
+    "handsEndedEarly": 6
+  },
+  "winners": [
+    "Alice",
+    "Alice",
+    "Alice",
+    "Alice",
+    "Alice",
+    "Alice",
+    "Alice"
+  ],
+  "finalChips": [
+    {
+      "name": "Alice",
+      "chips": 1520
+    },
+    {
+      "name": "Bob",
+      "chips": 0
+    },
+    {
+      "name": "Charlie",
+      "chips": 0
+    },
+    {
+      "name": "Diana",
+      "chips": 0
+    }
+  ],
+  "duration": 3,
+  "success": true
+}

@@ -1,0 +1,98 @@
+{
+  "agentId": 3446,
+  "config": {
+    "aiOnly": true,
+    "playerCount": 6,
+    "startingChips": 1000,
+    "smallBlind": 10,
+    "bigBlind": 20,
+    "hands": 80,
+    "agentId": 3446,
+    "difficulty": "maniac"
+  },
+  "handsPlayed": 80,
+  "errors": [],
+  "stats": {
+    "totalHands": 80,
+    "folds": 35,
+    "checks": 82,
+    "calls": 56,
+    "raises": 3,
+    "allIns": 4,
+    "sidePotsCreated": 4,
+    "handsWithShowdown": 20,
+    "handsEndedEarly": 22
+  },
+  "winners": [
+    "Diana",
+    "Bob",
+    "Bob",
+    "Diana",
+    "Bob",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Bob",
+    "Bob",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Charlie",
+    "Bob",
+    "Bob",
+    "Bob",
+    "Bob",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Bob",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Charlie",
+    "Bob",
+    "Bob",
+    "Bob"
+  ],
+  "finalChips": [
+    {
+      "name": "Bob",
+      "chips": 540
+    },
+    {
+      "name": "Alice",
+      "chips": 0
+    },
+    {
+      "name": "Charlie",
+      "chips": 0
+    },
+    {
+      "name": "Diana",
+      "chips": 0
+    },
+    {
+      "name": "Eve",
+      "chips": 0
+    },
+    {
+      "name": "Frank",
+      "chips": 0
+    }
+  ],
+  "duration": 78,
+  "success": true
+}

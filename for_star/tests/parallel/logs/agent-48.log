@@ -1,0 +1,38 @@
+
+> claude-poker@1.0.0 test:scenario
+> tsx tests/parallel/scenario-runner.ts --aiOnly --playerCount 2 --startingChips 1000 --smallBlind 10 --bigBlind 20 --difficulty easy --hands 80
+
+
+========================================
+Agent #9705 Starting Test
+========================================
+Players: 2
+Starting Chips: 1000
+Blinds: 10/20
+Difficulty: easy
+Hands to Play: 80
+Mode: AI vs AI
+
+
+========================================
+Agent #9705 Test Complete
+========================================
+Status: ✓ SUCCESS
+Hands Played: 80
+Duration: 14ms
+
+Action Stats:
+  Folds: 26
+  Checks: 85
+  Calls: 40
+  Raises: 0
+  All-Ins: 3
+
+Hand Stats:
+  Showdowns: 12
+  Early Ends: 57
+  Side Pots: 0
+
+Final Chip Counts:
+  1. Bob: 160
+  2. Alice: 0

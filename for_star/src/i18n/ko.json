@@ -1,0 +1,99 @@
+{
+  "welcome": "텍사스 홀덤 포커에 오신 것을 환영합니다!",
+  "pressEnter": "ENTER를 누르면 시작합니다",
+  "yourCards": "내 카드",
+  "communityCards": "커뮤니티 카드",
+  "pot": "팟",
+  "phase": {
+    "preflop": "프리플롭",
+    "flop": "플롭",
+    "turn": "턴",
+    "river": "리버",
+    "showdown": "쇼다운"
+  },
+  "action": {
+    "fold": "폴드",
+    "check": "체크",
+    "call": "콜",
+    "raise": "레이즈",
+    "allin": "올인"
+  },
+  "handRank": {
+    "1": "하이 카드",
+    "2": "원 페어",
+    "3": "투 페어",
+    "4": "트리플",
+    "5": "스트레이트",
+    "6": "플러시",
+    "7": "풀 하우스",
+    "8": "포 카드",
+    "9": "스트레이트 플러시",
+    "10": "로얄 스트레이트 플러시"
+  },
+  "tier": {
+    "Rookie": "루키",
+    "Amateur": "아마추어",
+    "Pro": "프로",
+    "Shark": "샤크",
+    "Legend": "전설"
+  },
+  "controls": {
+    "fold": "[F]폴드",
+    "check": "[C]체크/콜",
+    "call": "[C]콜",
+    "raise": "[R]레이즈",
+    "allin": "[A]올인",
+    "quit": "[Q]종료"
+  },
+  "messages": {
+    "yourTurn": "당신의 차례입니다!",
+    "youFolded": "폴드했습니다.",
+    "youChecked": "체크했습니다.",
+    "youCalled": "%s을 콜했습니다.",
+    "youRaised": "%s으로 레이즈했습니다.",
+    "youAllIn": "올인했습니다!",
+    "winner": "%s님이 %s을 획득했습니다!",
+    "tie": "무승부! 팟이 분할됩니다.",
+    "newHand": "ENTER를 누르면 다음 핸드로 넘어갑니다.",
+    "handStarted": "핸드 #%d 시작되었습니다.",
+    "blindsPosted": "블라인드 posted: SB %s, BB %s."
+  },
+  "ai": {
+    "thinks": "생각 중...",
+    "perceive": "인식",
+    "analyze": "분석",
+    "decide": "결정"
+  },
+  "menu": {
+    "newGame": "새 게임",
+    "aiMode": "AI 대전 모드",
+    "settings": "설정",
+    "stats": "통계",
+    "quit": "종료"
+  },
+  "settings": {
+    "theme": "테마",
+    "language": "언어",
+    "difficulty": "난이도",
+    "showAiThoughts": "AI 생각 표시",
+    "easy": "쉬움",
+    "normal": "보통",
+    "hard": "어려움",
+    "maniac": "매니악"
+  },
+  "stats": {
+    "gamesPlayed": "게임 횟수",
+    "handsPlayed": "핸드 횟수",
+    "handsWon": "승리한 핸드",
+    "winRate": "승률",
+    "biggestWin": "최대 한 번 수익",
+    "totalWinnings": "총 수익"
+  },
+  "dailyBonus": {
+    "title": "일일 보너스",
+    "claim": "일일 보너스 받기",
+    "claimed": "오늘 이미 받았습니다!",
+    "amount": "%s 칩을 받았습니다!",
+    "streak": "%d일 연속 보너스!"
+  }
+}

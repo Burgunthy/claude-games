@@ -1,0 +1,1 @@
+{"version":3,"file":"StatsScreen.d.ts","sourceRoot":"","sources":["../../../src/ui/screens/StatsScreen.tsx"],"names":[],"mappings":"AAOA,OAAO,EAAE,UAAU,EAAE,MAAM,8BAA8B,CAAC;AAI1D,UAAU,gBAAgB;IACxB,UAAU,EAAE,UAAU,CAAC;IACvB,MAAM,EAAE,MAAM,IAAI,CAAC;CACpB;AAED;;GAEG;AACH,wBAAgB,WAAW,CAAC,EAAE,UAAU,EAAE,MAAM,EAAE,EAAE,gBAAgB,2CAsFnE"}
