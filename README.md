@@ -35,7 +35,7 @@ That's it! The game will start automatically.
 ### Option 1: Clone and Play (Recommended for Claude Code)
 
 ```bash
-git clone https://github.com/your-username/claude-games.git
+git clone https://github.com/Burgunthy/claude-games.git
 cd claude-games
 npm install
 ```
@@ -108,7 +108,7 @@ Watch AIs battle with visible thoughts - see the decision-making process in real
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/claude-games.git
+git clone https://github.com/Burgunthy/claude-games.git
 cd claude-games
 
 # Install dependencies
@@ -153,7 +153,7 @@ Contributions are welcome! Feel free to:
 
 ## 📜 License
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Burgunthy](https://github.com/Burgunthy)
 
 ## 🙏 Acknowledgments
 
@@ -165,4 +165,4 @@ MIT © [Your Name](https://github.com/your-username)
 
 ⭐ **Star us on GitHub** if you enjoy the games!
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Burgunthy](https://github.com/Burgunthy)

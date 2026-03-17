@@ -21,16 +21,16 @@
     "ink",
     "react"
   ],
-  "author": "Your Name",
+  "author": "Burgunthy",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/claude-games.git"
+    "url": "https://github.com/Burgunthy/claude-games.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/claude-games/issues"
+    "url": "https://github.com/Burgunthy/claude-games/issues"
   },
-  "homepage": "https://github.com/your-username/claude-games#readme",
+  "homepage": "https://github.com/Burgunthy/claude-games#readme",
   "engines": {
     "node": ">=18.0.0"
   }
