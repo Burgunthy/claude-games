@@ -1,1 +1,0 @@
-{"version":3,"file":"GameSetup.d.ts","sourceRoot":"","sources":["../../../src/ui/screens/GameSetup.tsx"],"names":[],"mappings":"AAMA,OAAO,EAA8B,UAAU,EAAkB,MAAM,qBAAqB,CAAC;AAI7F,UAAU,cAAc;IACtB,UAAU,EAAE,CAAC,MAAM,EAAE,UAAU,KAAK,IAAI,CAAC;IACzC,MAAM,EAAE,MAAM,IAAI,CAAC;CACpB;AAID;;GAEG;AACH,wBAAgB,SAAS,CAAC,EAAE,UAAU,EAAE,MAAM,EAAE,EAAE,cAAc,2CA4N/D"}
