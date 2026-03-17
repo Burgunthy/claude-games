@@ -1,0 +1,37 @@
+{
+  "name": "claude-games",
+  "version": "1.0.0",
+  "description": "Terminal games built for Claude Code - Play directly in your terminal with AI-powered features",
+  "type": "module",
+  "scripts": {
+    "postinstall": "cd claude-poker && npm install && npm run build",
+    "dev": "cd claude-poker && npm run dev",
+    "build": "cd claude-poker && npm run build",
+    "test": "cd claude-poker && npm test",
+    "start": "node claude-poker/bin/poker"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-games",
+    "poker",
+    "texas-holdem",
+    "cli",
+    "terminal-game",
+    "ai",
+    "ink",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claude-games.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/claude-games/issues"
+  },
+  "homepage": "https://github.com/your-username/claude-games#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
